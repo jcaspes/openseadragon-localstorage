@@ -1,0 +1,29 @@
+{
+  "name": "openseadragon-localstorage",
+  "version": "0.0.1",
+  "description": "An OpenSeadragon plugin that adds local storage capability.",
+  "main": "openseadragon-localstorage.js",
+  "dependencies": {
+    "openseadragon": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openseadragon/bookmark-url.git"
+  },
+  "files": [ ],
+  "keywords": [
+    "openseadragon",
+    "plugin",
+    "localstorage"
+  ],
+  "author": "Jean-Christophe Cura",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/openseadragon/bookmark-url/issues"
+  },
+  "homepage": "https://github.com/openseadragon/bookmark-url#readme"
+}
